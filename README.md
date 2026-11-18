@@ -31,6 +31,7 @@
 ## 精选项目
 
 - [lee-blog](https://github.com/GaryLeeeee/lee-blog)：基于 Hexo 搭建的个人技术博客
+- [lee-toolbox](https://github.com/GaryLeeeee/lee-toolbox) 是一个由 AI 生成和迭代的可扩展本地工具箱，仅供学习使用
 - [lee-algorithm](https://github.com/GaryLeeeee/lee-algorithm)：算法学习与练习记录
 - [lee-framework](https://github.com/GaryLeeeee/lee-framework)：简单实现一个 Spring MVC 风格框架
 - [lee-rpc](https://github.com/GaryLeeeee/lee-rpc)：简单 RPC 框架实现
